@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, soy Alex Vedia Castro</h1>
+<h1 align="center">Hola 👋, soy Alex Vedia C.</h1>
 <h3 align="center">Me gusta aprender nuevas tecnologías de mi entorno.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alexvedia&label=Profile%20views&color=0e75b6&style=flat" alt="alexvedia" /> </p>
